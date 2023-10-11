@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93266e9fc0cd9fe4081c900e7a7206af, type: 3}
+  m_Name: WF_Chomp
+  m_EditorClassIdentifier: 
+  className: 
+  weaponName: 
+  skillName: Chomp
+  skillType: 2
+  selfType: 0
+  friendlyType: 0
+  enemyType: 1
+  skill_Str: 0
+  skill_Acr: 0
+  skill_Crt: 0
+  hitTarget: "\uBA38\uB9AC"

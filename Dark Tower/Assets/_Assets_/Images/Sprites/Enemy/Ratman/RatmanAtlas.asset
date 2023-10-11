@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: RatmanAtlas
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a8ad6871ab66c674c8deca11d9f085c2, type: 2}
+  mSprites:
+  - name: RatmanBugler_Parts_Chest
+    x: 1078
+    y: 340
+    width: 136
+    height: 105
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 57
+    paddingRight: 125
+    paddingTop: 36
+    paddingBottom: 84
+  - name: RatmanBugler_Parts_Head
+    x: 1144
+    y: 90
+    width: 119
+    height: 86
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 52
+    paddingRight: 147
+    paddingTop: 0
+    paddingBottom: 139
+  - name: RatmanBugler_Parts_Leg
+    x: 1023
+    y: 63
+    width: 119
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 106
+    paddingRight: 93
+    paddingTop: 112
+    paddingBottom: 0
+  - name: RatmanInfantry_Parts_Chest
+    x: 418
+    y: 757
+    width: 318
+    height: 267
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 26
+    paddingRight: 92
+    paddingTop: 37
+    paddingBottom: 0
+  - name: RatmanInfantry_Parts_Head
+    x: 1023
+    y: 178
+    width: 133
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 303
+    paddingTop: 0
+    paddingBottom: 183
+  - name: RatmanInfantry_Parts_Leg
+    x: 988
+    y: 860
+    width: 221
+    height: 164
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 109
+    paddingRight: 106
+    paddingTop: 140
+    paddingBottom: 0
+  - name: RatmanOrbmancer_Parts_Arm
+    x: 0
+    y: 64
+    width: 231
+    height: 420
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 156
+    paddingRight: 101
+    paddingTop: 153
+    paddingBottom: 3
+  - name: RatmanOrbmancer_Parts_Body
+    x: 834
+    y: 78
+    width: 187
+    height: 216
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 125
+    paddingRight: 176
+    paddingTop: 124
+    paddingBottom: 236
+  - name: RatmanOrbmancer_Parts_Head
+    x: 934
+    y: 616
+    width: 182
+    height: 222
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 306
+    paddingTop: 80
+    paddingBottom: 274
+  - name: RatmanOrbmancer_Parts_Leg
+    x: 0
+    y: 486
+    width: 435
+    height: 252
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 50
+    paddingTop: 324
+    paddingBottom: 0
+  - name: RatmanRoyalguard_Parts_Arm
+    x: 437
+    y: 487
+    width: 281
+    height: 268
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 31
+    paddingRight: 534
+    paddingTop: 161
+    paddingBottom: 221
+  - name: RatmanRoyalguard_Parts_Chest
+    x: 764
+    y: 296
+    width: 180
+    height: 240
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 205
+    paddingRight: 461
+    paddingTop: 159
+    paddingBottom: 251
+  - name: RatmanRoyalguard_Parts_Head
+    x: 720
+    y: 538
+    width: 212
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 46
+    paddingRight: 588
+    paddingTop: 61
+    paddingBottom: 372
+  - name: RatmanRoyalguard_Parts_Leg
+    x: 0
+    y: 740
+    width: 416
+    height: 284
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 86
+    paddingRight: 344
+    paddingTop: 366
+    paddingBottom: 0
+  - name: RatmanSpearthrower_Parts_Chest
+    x: 233
+    y: 129
+    width: 245
+    height: 355
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 51
+    paddingRight: 90
+    paddingTop: 5
+    paddingBottom: 0
+  - name: RatmanSpearthrower_Parts_Head
+    x: 233
+    y: 8
+    width: 147
+    height: 119
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 218
+    paddingTop: 65
+    paddingBottom: 176
+  - name: RatmanSpearthrower_Parts_Leg
+    x: 946
+    y: 447
+    width: 214
+    height: 167
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 155
+    paddingRight: 17
+    paddingTop: 193
+    paddingBottom: 0
+  - name: RatmanVermin_Parts_Chest
+    x: 480
+    y: 229
+    width: 282
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 58
+    paddingRight: 24
+    paddingTop: 42
+    paddingBottom: 0
+  - name: RatmanVermin_Parts_Head
+    x: 946
+    y: 301
+    width: 130
+    height: 144
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 232
+    paddingTop: 2
+    paddingBottom: 152
+  - name: RatmanVermin_Parts_Leg
+    x: 1118
+    y: 698
+    width: 214
+    height: 160
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 108
+    paddingRight: 42
+    paddingTop: 139
+    paddingBottom: 0
+  - name: RatmanVeteran_Parts_Chest
+    x: 480
+    y: 51
+    width: 352
+    height: 176
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 175
+    paddingRight: 179
+    paddingTop: 55
+    paddingBottom: 109
+  - name: RatmanVeteran_Parts_Head
+    x: 1211
+    y: 874
+    width: 147
+    height: 150
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 165
+    paddingRight: 394
+    paddingTop: 0
+    paddingBottom: 190
+  - name: RatmanVeteran_Parts_Leg
+    x: 738
+    y: 840
+    width: 248
+    height: 184
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 282
+    paddingRight: 176
+    paddingTop: 156
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
